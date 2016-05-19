@@ -11,4 +11,4 @@ for sentence in blob.sentences:
 blob.translate(to = "en")
 
 
-oye que nomas hace el ejercicio  aparte contar las palabras y traducir?
+##oye que nomas hace el ejercicio  aparte contar las palabras y traducir?
